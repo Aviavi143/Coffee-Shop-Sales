@@ -10,6 +10,7 @@ Visualizations: The project includes various visualizations such as bar charts, 
 Customer Segmentation: Using Excel's functionalities, we segment customers based on their buying behavior, loyalty, and demographics. This segmentation can guide targeted marketing strategies.
 Forecasting: Utilizing Excel's forecasting tools, we attempt to predict future sales based on historical data. This helps in planning inventory and staffing requirements.
 Interactive Dashboard: The Excel workbook includes an interactive dashboard that summarizes key findings and allows users to explore data dynamically. This dashboard serves as a central hub for insights.
+
 How to Use:
 
 Download the Excel Workbook: Clone or download this repository to access the Excel workbook containing the sales data and analysis.
